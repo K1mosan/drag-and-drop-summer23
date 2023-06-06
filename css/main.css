@@ -67,7 +67,7 @@ body {
 .drop-zone {
 	width: 50%;
 	height: 50%;
-	/* border: thin dashed white; */
+	border: thin dashed white;
 	position: relative;
 }
 
@@ -93,7 +93,7 @@ header {
 
 header h1 {
 	font-size: 3.25em;
-  	letter-spacing: 3px;
+  letter-spacing: 3px;
 	margin: 10px 0
 }
 
